@@ -1,0 +1,69 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:background="@drawable/blue2"
+    tools:context="com.boisestate.srisarguru.mydog.BudgetMainActivity">
+
+    <TextView
+        android:layout_width="500dp"
+        android:layout_height="100dp"
+        android:text="@string/BudgetInfoTextView"
+        android:id="@+id/BudgetInfotextView"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/minRangeeditText"
+        android:layout_below="@+id/BudgetInfotextView"
+        android:layout_toEndOf="@+id/MintextView"
+        android:layout_alignLeft="@+id/MaxRangeeditText"
+        android:layout_alignStart="@+id/MaxRangeeditText" />
+
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/MaxRangeeditText"
+        android:layout_alignTop="@+id/MaxtextView"
+        android:layout_alignRight="@+id/BudgetInfotextView"
+        android:layout_alignEnd="@+id/BudgetInfotextView" />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/bone"
+        android:textColor="#ff0000"
+        android:text="@string/SubmitBudgetButton"
+        android:id="@+id/submitBudgetbutton"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="@string/MinTextView"
+        android:id="@+id/MintextView"
+        android:layout_below="@+id/BudgetInfotextView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_toLeftOf="@+id/MaxRangeeditText"
+        android:layout_toStartOf="@+id/MaxRangeeditText" />
+
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="@string/MaxTextView"
+        android:id="@+id/MaxtextView"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/MaxRangeeditText"
+        android:layout_toStartOf="@+id/MaxRangeeditText" />
+</RelativeLayout>

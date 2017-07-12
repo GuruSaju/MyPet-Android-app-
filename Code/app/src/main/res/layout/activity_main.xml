@@ -1,0 +1,79 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+
+    android:background="@drawable/rsz_bcwolve"
+    android:scaleType = "centerCrop"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity">
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/bone"
+        android:textColor="#ff0000"
+        android:text="@string/breed"
+        android:id="@+id/breedbutton"
+        android:scaleType = "centerCrop"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+         />
+
+    <Button
+        android:layout_width="190dp"
+        android:layout_height="110dp"
+        android:background="@drawable/bone"
+        android:text="@string/QuizActButton"
+        android:id="@+id/Quizbutton"
+        android:layout_below="@+id/breedbutton"
+        android:layout_centerHorizontal="true"
+        android:textColor="#ff0000" />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/bone"
+        android:text="@string/budgetButton"
+        android:id="@+id/budgetbutton"
+        android:layout_alignTop="@+id/breedbutton"
+        android:layout_alignLeft="@+id/picturesButton"
+        android:layout_alignStart="@+id/picturesButton"
+        android:textColor="#ff0000" />
+
+    <Button
+        android:layout_width="190dp"
+        android:layout_height="110dp"
+        android:background="@drawable/bone"
+        android:text="@string/Hospitalbutton"
+        android:id="@+id/hospitalbutton"
+        android:textColor="#ff0000"
+        android:layout_above="@+id/alertButton"
+        android:layout_alignLeft="@+id/Quizbutton"
+        android:layout_alignStart="@+id/Quizbutton" />
+
+    <Button
+        android:layout_width="120dp"
+        android:layout_height="110dp"
+        android:background="@drawable/bone"
+        android:text="@string/AlertButton"
+        android:id="@+id/alertButton"
+        android:textColor="#ff0000"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="120dp"
+        android:layout_height="110dp"
+        android:background="@drawable/bone"
+        android:text="@string/picturesButton"
+        android:id="@+id/picturesButton"
+        android:textColor="#ff0000"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    />
+</RelativeLayout>

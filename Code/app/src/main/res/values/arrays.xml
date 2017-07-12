@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Breeds">
+        <item>Akita</item>
+        <item>Alaskan Malamute</item>
+        <item>Australian Shepherd</item>
+        <item>Basset Hound</item>
+        <item>Beagle</item>
+        <item>Bernese Mountain Dog</item>
+        <item>Border Collie</item>
+        <item>Boston Terrier</item>
+        <item>Boxer</item>
+        <item>Brittany</item>
+        <item>Bulldog</item>
+        <item>Bullmastiff</item>
+        <item>Cavalier King Charles Spaniel</item>
+        <item>Chihuahua</item>
+        <item>Collie</item>
+        <item>Dalmation</item>
+        <item>Dashchund</item>
+        <item>Doberman Pinscher</item>
+        <item>English Springer Spaniel</item>
+        <item>French Bulldog</item>
+        <item>German Shepherd</item>
+        <item>German Shorthaired Pointer</item>
+        <item>Golden Retriever</item>
+        <item>Great Dane</item>
+        <item>Havanese</item>
+        <item>Labrador</item>
+        <item>Maltese</item>
+        <item>Mastiff</item>
+        <item>Miniature Pinscher</item>
+        <item>Miniature Poodle</item>
+        <item>Miniature Schnauzer</item>
+        <item>Pembroke Welsh Corgi</item>
+        <item>Pomeranian</item>
+        <item>Pug</item>
+        <item>Rottweiler</item>
+        <item>Saint Bernard</item>
+        <item>Shetland Sheepdog</item>
+        <item>Shih Tzu</item>
+        <item>Siberian Husky</item>
+        <item>Standard Poodle</item>
+        <item>Weimaraner</item>
+        <item>Yorkshire Terrier</item>
+    </string-array>
+    <string-array name="BreedsQ1">
+        <item>Large</item>
+        <item>Large</item>
+        <item>Medium</item>
+        <item>Medium</item>
+        <item>Medium</item>
+        <item>Large</item>
+        <item>Medium</item>
+        <item>Small</item>
+        <item>Large</item>
+        <item>Medium</item>
+        <item>Medium</item>
+        <item>Large</item>
+        <item>Small</item>
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+        <item>Small</item>
+        <item>Large</item>
+        <item>Medium</item>
+        <item>Small</item>
+        <item>Large</item>
+        <item>Medium</item>
+        <item>Large</item>
+        <item>Large</item>
+        <item>Small</item>
+        <item>Large</item>
+        <item>Small</item>
+        <item>Large</item>
+        <item>Small</item>
+        <item>Small</item>
+        <item>Small</item>
+        <item>Small</item>
+        <item>Small</item>
+        <item>Small</item>
+        <item>Large</item>
+        <item>Large</item>
+        <item>Medium</item>
+        <item>Small</item>
+        <item>Large</item>
+        <item>Medium</item>
+        <item>Medium</item>
+        <item>Small</item>
+    </string-array>
+    <string-array name="BreedsQ2">
+        <item>90 minutes</item>
+        <item>150 minutes or more</item>
+        <item>150 minutes or more</item>
+        <item>30 minutes</item>
+        <item>90 minutes</item>
+        <item>90 minutes</item>
+        <item>150 minutes or more</item>
+        <item>90 minutes</item>
+        <item>90 minutes</item>
+        <item>150 minutes or more</item>
+        <item>30 minutes</item>
+        <item>90 minutes</item>
+        <item>30 minutes</item>
+        <item>30 minutes</item>
+        <item>90 minutes</item>
+        <item>150 minutes or more</item>
+        <item>30 minutes</item>
+        <item>150 minutes or more</item>
+        <item>90 minutes</item>
+        <item>30 minutes</item>
+        <item>150 minutes or more</item>
+        <item>150 minutes or more</item>
+        <item>90 minutes</item>
+        <item>90 minutes</item>
+        <item>30 minutes</item>
+        <item>90 minutes</item>
+        <item>30 minutes</item>
+        <item>30 minutes</item>
+        <item>150 minutes or more</item>
+        <item>90 minutes</item>
+        <item>30 minutes</item>
+        <item>150 minutes or more</item>
+        <item>90 minutes</item>
+        <item>30 minutes</item>
+        <item>90 minutes</item>
+        <item>30 minutes</item>
+        <item>90 minutes</item>
+        <item>30 minutes</item>
+        <item>90 minutes</item>
+        <item>90 minutes</item>
+        <item>150 minutes or more</item>
+        <item>30 minutes</item>
+    </string-array>
+    <string-array name="BreedsQ3">
+        <item>Winter</item>
+        <item>Winter</item>
+        <item>Spring</item>
+        <item>Autumn</item>
+        <item>Autumn</item>
+        <item>Spring</item>
+        <item>Spring</item>
+        <item>Winter</item>
+        <item>Autumn</item>
+        <item>Spring</item>
+        <item>Winter</item>
+        <item>Autumn</item>
+        <item>Spring</item>
+        <item>Spring</item>
+        <item>Spring</item>
+        <item>Winter</item>
+        <item>Autumn</item>
+        <item>Spring</item>
+        <item>Autumn</item>
+        <item>Winter</item>
+        <item>Spring</item>
+        <item>Autumn</item>
+        <item>Spring</item>
+        <item>Autumn</item>
+        <item>Winter</item>
+        <item>Spring</item>
+        <item>Winter</item>
+        <item>Autumn</item>
+        <item>Spring</item>
+        <item>Winter</item>
+        <item>Spring</item>
+        <item>Autumn</item>
+        <item>Winter</item>
+        <item>Spring</item>
+        <item>Spring</item>
+        <item>Winter</item>
+        <item>Spring</item>
+        <item>Autumn</item>
+        <item>Winter</item>
+        <item>Winter</item>
+        <item>Spring</item>
+        <item>Autumn</item>
+    </string-array>
+    <string-array name="BreedsQ4">
+        <item>Loyal</item>
+        <item>Loyal</item>
+        <item>Comforting</item>
+        <item>Funny</item>
+        <item>Comforting</item>
+        <item>Loyal</item>
+        <item>Funny</item>
+        <item>Loyal</item>
+        <item>Loyal</item>
+        <item>Comforting</item>
+        <item>Funny</item>
+        <item>Loyal</item>
+        <item>Comforting</item>
+        <item>Comforting</item>
+        <item>Loyal</item>
+        <item>Comforting</item>
+        <item>Comforting</item>
+        <item>Loyal</item>
+        <item>Loyal</item>
+        <item>Funny</item>
+        <item>Loyal</item>
+        <item>Comforting</item>
+        <item>Funny</item>
+        <item>Loyal</item>
+        <item>Comforting</item>
+        <item>Loyal</item>
+        <item>Comforting</item>
+        <item>Comforting</item>
+        <item>Comforting</item>
+        <item>Funny</item>
+        <item>Comforting</item>
+        <item>Funny</item>
+        <item>Comforting</item>
+        <item>Funny</item>
+        <item>Funny</item>
+        <item>Funny</item>
+        <item>Loyal</item>
+        <item>Comforting</item>
+        <item>Comforting</item>
+        <item>Funny</item>
+        <item>Loyal</item>
+        <item>Comforting</item>
+    </string-array>
+    <string-array name="BreedsQ5">
+        <item>Takes a little time</item>
+        <item>Very easily</item>
+        <item>Takes a little time</item>
+        <item>Very easily</item>
+        <item>Takes a little time</item>
+        <item>Not that much</item>
+        <item>Not that much</item>
+        <item>Takes a little time</item>
+        <item>Takes a little time</item>
+        <item>Very easily</item>
+        <item>Very easily</item>
+        <item>Not that much</item>
+        <item>Very easily</item>
+        <item>Not that much</item>
+        <item>Takes a little time</item>
+        <item>Takes a little time</item>
+        <item>Takes a little time</item>
+        <item>Takes a little time</item>
+        <item>Very easily</item>
+        <item>Very easily</item>
+        <item>Not that much</item>
+        <item>Very easily</item>
+        <item>Very easily</item>
+        <item>Takes a little time</item>
+        <item>Very easily</item>
+        <item>Very easily</item>
+        <item>Takes a little time</item>
+        <item>Not that much</item>
+        <item>Very easily</item>
+        <item>Very easily</item>
+        <item>Takes a little time</item>
+        <item>Very easily</item>
+        <item>Not that much</item>
+        <item>Very easily</item>
+        <item>Not that much</item>
+        <item>Very easily</item>
+        <item>Not that much</item>
+        <item>Not that much</item>
+        <item>Very easily</item>
+        <item>Very easily</item>
+        <item>Not that much</item>
+        <item>Very easily</item>
+    </string-array>
+    <string-array name="Breedscostrange">
+        <item>900$-1800$</item>
+        <item>1000$-2000$</item>
+        <item>500$-1000$</item>
+        <item>500$-1500$</item>
+        <item>400$-1250$</item>
+        <item>1000$-2000$</item>
+        <item>300$-1200$</item>
+        <item>650$-1300$</item>
+        <item>700$-1200$</item>
+        <item>500$-1200$</item>
+        <item>1500$-3000$</item>
+        <item>1000$-2000$</item>
+        <item>1800$-3500$</item>
+        <item>300$-1000$</item>
+        <item>750$ -2500$</item>
+        <item>500$-1500$</item>
+        <item>600$-1500$</item>
+        <item>1200$-2000$</item>
+        <item>500$-1000$</item>
+        <item>800$-2000$</item>
+        <item>1000$-3000$</item>
+        <item>600$-1000$</item>
+        <item>600$-2500$</item>
+        <item>800$-1400$</item>
+        <item>1200$-1800$</item>
+        <item>800$-1600$</item>
+        <item>800$-1400$</item>
+        <item>750$- 1200$</item>
+        <item>400$-800$</item>
+        <item>400$-1000$</item>
+        <item>400$-800$</item>
+        <item>700$-1200$</item>
+        <item>500$-1600$</item>
+        <item>700$-2500$</item>
+        <item>800$-2000$</item>
+        <item>900$-1700$</item>
+        <item>650$-1000$</item>
+        <item>500$-1200$</item>
+        <item>500$-900$</item>
+        <item>900$-1500$</item>
+        <item>800$-1200$</item>
+        <item>1000$-2500$</item>
+    </string-array>
+    <integer-array name="Costs">
+        <item>900</item>
+        <item>1000</item>
+        <item>500</item>
+        <item>500</item>
+        <item>400</item>
+        <item>1000</item>
+        <item>300</item>
+        <item>650</item>
+        <item>700</item>
+        <item>500</item>
+        <item>1500</item>
+        <item>1000</item>
+        <item>1800</item>
+        <item>300</item>
+        <item>750</item>
+        <item>500</item>
+        <item>600</item>
+        <item>1200</item>
+        <item>500</item>
+        <item>800</item>
+        <item>1000</item>
+        <item>600</item>
+        <item>600</item>
+        <item>800</item>
+        <item>1200</item>
+        <item>800</item>
+        <item>800</item>
+        <item>750</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>700</item>
+        <item>500</item>
+        <item>700</item>
+        <item>800</item>
+        <item>900</item>
+        <item>650</item>
+        <item>500</item>
+        <item>500</item>
+        <item>900</item>
+        <item>800</item>
+        <item>1000</item>
+    </integer-array>
+    <string-array name="Breedsinfo">
+        <item>The Akita is a strong, courageous, and family-oriented dog. They have strong guarding instincts and are protective and territorial. They are quiet, large and powerful dogs who can be intimidating. Temperaments range within the breed. Some are calm, and some are aggressive, so the breed should always be supervised around children. They are not usually aggressive toward people, but they are wary of strangers. They are food aggressive, so they need to have their own food dish and a safe space to eat. Care needs to be taken to keep children away from the food while the dog is eating. The Akita is typically gentle with and protective of children, but isn\'t always tolerant of the erratic behavior of small children, and no child wants to be snapped at by a giant Akita. They can also be intolerant of other dogs and are often aggressive towards other animals. They have a natural hunting instinct and should never be allowed to roam outside of a safely fenced-in area. The Akita is bright and sensitive, but he is also independent, headstrong, and dominant, so it is important to start obedience training early. If you do not assume the role of pack leader, he will. However, with patience and perseverance, the Akita is highly trainable because of their intelligence. They are rather famous for being easy to housetrain. The Akita has moderate exercise needs and should get exercise daily. They are sensitive and responsive and will thrive on your attention. Your Akita will probably decide his purpose in life is to protect you and spend time with you. The Akita will only bark for a good reason, but they do talk a lot. They grunt and groan and mumble to communicate, which is endearing for the Akita lovers of the world. They also like to carry things in their mouths, and this includes your wrist. They might take hold of your arm and gently lead you to the food bin. While it takes the right person and family to raise an Akita, the rewards are rich. Your Akita will be a part of the family, a loyal protector with unparalleled devotion.</item>
+        <item>This arctic sled dog was bred for strength and endurance, and you don\'t want to get into a wrestling match with an Alaskan Malamute! They are incredibly strong, and you will need to commit to obedience training early so that you don\'t end up struggling to control a full-grown dog. They are independent and can be stubborn, so training can be a challenge. It\'s just a matter of whether or not they want to obey your commands, not whether or not they understand. Remember that they were bred to pull, so teaching them to walk on a leash without pulling is a must! The Alaskan Malamute has an incredibly high energy level and needs to exercise every day. They are athletic and playful and do best with a fenced-in yard. You need to take care that they don\'t get away, as they have a predator streak, and they have been known to kill livestock and wildlife. They can also be the neighborhood cat\'s worst nightmare. They are usually aggressive with other dogs, especially those of the same sex. However, the Malamute loves people. He seems to love everyone equally and is not a\"one-man dog\" like many other breeds. He is ridiculously friendly, and will probably kiss anyone who breaks into your house. They seem to have no inclination to guard your property. They also don\'t tend to bark much (though they do howl). He isn\'t a good watchdog. Despite their reluctance to guard you, they will be loyal and devoted and affectionate (though not fawning). They are happy and like to run and play and bounce around a lot. He never seems to get tired. They are patient with children, and do very well with well-behaved kids, but need to be supervised, as they can accidentally knock a young child over. A Malamute will insist on being part of any and all family activities. A Malamute that doesn\'t get enough exercise will misbehave. They seem to be particularly fond of getting into the trash and stealing food off the countertop. They are highly food motivated, so don\'t leave them alone with the wedding cake. You also have to supervise their diet, as they can easily overeat. They also love to dig and can transform your yard with seemingly little effort. Sometimes they dig simply to find a cool place to hang out. Malamutes will talk to you. They have a variety of sounds that they can make and they will use these unique \"words\" to sass you if they feel the need. For a Malamute to be happy, he needs a lot of your time, energy, love and attention. And plenty of exercise. But if you can make that commitment, the Malamute is an awesome, fun, cuddly, loving, lovable, and strong pet!</item>
+        <item>The Australian Shepherd, lovingly called an\ "Aussie,\" is a highly intelligent, incredibly energetic, people-loving dog who needs to have a job to do. They need lots and lots of exercise and will fit in well with an active person or family. They are bred to herd, and might try to herd anything, including you, your children, your neighbor\'s child on a bicycle, innocent strangers jogging past your house, ducks, squirrels, cats, and cars. You will need a fence to keep them off the road. They also have strong guarding instincts, and want to be near their family at all times. Originally bred as all-purpose farm dogs, Aussies were left to supervise the children while the parents worked in the fields. They are good with children, except for the occasional nipping at their heels to herd them into position. They will follow you from room to room and supervise you in the bathroom. They are very affectionate and will want to lick your face. They are assertive by nature, highly territorial and can be pushy. They are very protective of their family and home, and are cautious around strangers. They need lots of mental stimulation and physical exercise, or problem behaviors will arise. They are the opposite of the couch potato dog. They need to have a sense of purpose, which is why so many of them excel in obedience and agility competitions. They are highly trainable, versatile, and are quick learners. They usually love to play ball and Frisbee, and many of them enjoy swimming. If you are in the market for a full-time center of attention family pet, full of exuberance and demanding of your attention, then an Aussie might be for you. They are good-natured, eager to please, and remarkably loyal. But they will need to be at the top of your priority list.</item>
+        <item>Known as the clown of the canine world, a Basset Hound is sure to bring you some laughs. The Basset Hound is a terrific family pet, because they are intelligent, easygoing, sociable, loving, and loyal. They are great with children and other dogs, and are friendly with strangers. They love to be part of the family and go for rides in the car, watch TV with you, and play in the yard. They are also prone to mischief. They are a pack hound, and are uncomfortable when left alone for hours at a time. If no humans are available, a Basset will need another dog or cat to keep him company. The Basset Hound is famous for being stubborn and strong-willed. He is a master of getting his own way. He will hurl his 65 pounds onto your lap when you are least expecting it, sometimes when you are sleeping. Even though the Basset was bred to be a hunting hound, they often behave more like an oversized lapdog. A Basset needs to be kept on a leash or safe in a fenced-in area. He will often follow a scent that interests him, which can sometimes lead him into dangerous situations, like a road. Even though they are not high energy dogs, they are capable of impressive bursts of speed. While Bassets can be lazy and love to sleep for hours in a patch of sun, they also love to go for long, unhurried walks. If you want to own a Basset, you must be comfortable with drool and slobber. Bassets love to eat and will beg for and steal food any chance they get. They are not opposed to climbing up onto the table to lick plates. They are also good for cleaning up food spills, but are infamous for snatching a cracker out of a young child\'s hand. It is not safe for Bassets to do much jumping, so a Basset owner must be prepared to provide a boost now and again, helping their Basset into a car and onto the couch. Bassets are often difficult to housetrain and are prone to gassiness. They love to \"sing,\" which your neighbors might interpret as baying or howling.</item>
+        <item>The Beagle is merry, friendly, gentle, playful, and even-tempered. He has a sensitive nature. He can be distant with strangers until they\'ve won him over. He\'s kind and gentle with children. He\'s territorial and protective of his family. He has a highly developed nose and will wander off after interesting smells. For this reason, he needs to be securely fenced in or on a leash when he\'s outdoors or he will wander miles away after a scent and might get hit by a car or lost. He\'s more interested in finding out where that fascinating smell comes from than obeying your commands! He also doesn\'t make a good jogging companion because he stops every second to investigate every smell. He loves to play with you! He can be quite noisy: baying and barking. He loves his food and will eat until he bursts if allowed to. He can be quite ingenious in coming up with ways to get to the food in the cupboard, in the bin or on the table! His favorite past time is digging in the dirt. He craves lots of close physical contact, love and attention from his human family!</item>
+        <item>The Bernese Mountain Dog was bred to be the farmer\'s companion, and today, a Bernese Mountain Dog will want to be by your side at all times. They make a great family dog, and usually single out one person in the household to be their best friend. They are loyal and devoted and will strive to please you. They are excellent with kind and gentle children. They are extremely intelligent, and are known for manipulating their humans. Because of their intelligence, they need to be mentally stimulated. They are gentle, easygoing, good-natured, affectionate, and docile. They are incredibly devoted to their own family, and generally aloof towards strangers. A tendency to be shy runs in the breed, and early socialization is important. Most Bernese Mountain Dogs do well with other animals, but some of them do chase smaller animals. They need daily exercise, but not as much as some more energetic breeds. They don\'t enjoy playing fetch and certainly don\'t make good jogging partners. In warm weather, they will dig holes to try to get at the cool earth, and this will often happen in your favorite flower bed. In general, they love to be outside, as long as you are there with them. They always want to be part of the family and will demand a lot of your attention. Inside, they are usually quiet and calm, though their wagging tail will often find your cup of coffee. They do not bark unnecessarily, but will announce a stranger at the door, so they make good watchdogs. They are very protective of the members of their family. They are slow to mature, and can act "puppyish" for several years. The younger Bernese Mountain Dogs are very active, and the older ones are pleasantly mellow, though they still take a lively interest in family business. In short, this is a devoted breed who will need to be right in the thick of things.</item>
+        <item>Border Collies, known as the workaholics of the dog world, are a lot of work. They need a job to do, whether its herding, agility, flyball, Frisbee championships ... anything to keep their overactive brains busy! If you don\'t give a Border Collie the physical and mental exercise he needs, he will destroy everything. And I\'m not just talking about socks and teddy bears. I\'m talking: mattresses, recliners, carpets, and wooden stairs! They can also seriously harm themselves by ingesting foreign objects. Some have even eaten nails and knives! And a Border Collie can total the interior of a car. These athletic, working dogs are extremely athletic and need hours of exercise each day! They need to run, and they need a purpose. Some well-meaning parents make the mistake of assuming they can just set their Border Collie free in the backyard and that will suffice. It doesn\'t even come close. You need to challenge your Border Collie. The breed is bred to be challenged! They have a strong herding instinct and they will try to herd anything, including children. While the dog means no harm, it can be frightening to a small child to be herded by a Border Collie, and if the child tries to run away from the scene, the Border Collie might nip at the child\'s heels or bum. They are not trying to be cruel. They\'ve been bred to be herders. But it still hurts to be nipped. Border Collies are excellent with children, but it takes vigilance on the part of the parents, to make sure both children and dog learn how to interact with each other. Border Collies also try to herd cars, which puts them in danger of being hit. Border Collies do best in a fenced-in yard. But be aware that Border Collies are extremely athletic and can jump over a six foot fence if they decide it\'s worth the trouble. Border Collies will not necessarily do well with other animals in the house either, because ... you guessed it -- they will try to herd them. It is impossible to train the herding out of a Border Collie. These dogs are highly intelligent and will try to over-think everything. They\'ve been called the most intelligent breed in the world. So prospective owners should ask themselves, \"Do I want a dog who\'s smarter than me?\" But for the right person, the devoted, passionate Border Collie parent, the breed makes an affectionate and extraordinarily devoted pet. They are sweet and sensitive. They are even known for reading their owner\'s minds (which could be a good or bad thing). They are not avid barkers, but can be good watchdogs, as they are reserved with strangers and are naturally protective of their family and home. Border Collies love to entertain themselves, which might end up entertaining you. Many of them can become obsessed with a red penlight, a housefly, a ceiling fan, or a siren on television. Border Collies can have hilarious personalities! So, if you want a full-time job, a dog who can turn doorknobs, a psychic friend, a living alarm clock, and you think you can keep up with him (or rather, one step ahead of him), then the Border Collie is for you!</item>
+        <item>The Boston Terrier, also known as \"The American Gentleman,\" is enthusiastic about life and is often excitable. They are an ideal family dog, as they are adaptable, full of fun, loyal and loving. They are also intelligent and trainable (though a bit stubborn). They are often slow to housetrain. They are friendly to everyone: you, the kids, and the neighbors. He is very affectionate, and not afraid to show it in public. He will also strive to entertain you and can be quite the little comedian. He will most certainly bounce on you and lick you. He will want to go for rides with you and will want to sleep in your bed -- did I mention he snores and farts a lot? He will expect you to buy him toys, as he loves to play with them. He will also expect to own a small portion of your favorite lounge chair. Because of their size, they can live comfortably in an apartment or on a farm. He is alert will bark a warning when someone new is at the door, but he does not bark much unless there is a reason, this makes him an excellent watchdog. They are an energetic breed and do need some exercise, but be aware that they cannot tolerate extreme temperatures. Boston Terriers require a lot of time, attention, and human companionship. But if you have these things to give, you will get a true, gentleman companion in return.</item>
+        <item>The Boxer is alert, curious, playful, loyal and dignified. He\'s self-confident, courageous, strong and athletic. He\'s a very social dog and loves people. He\'s craves your affection and physical contact. He thrives on pats, hugs, scratches and belly rubs. He loves to sit on your lap! He loves to be with you at all times; he will become your shadow. He is the kind of dog who is always in your face. He\'s a playful clown. He adores children and is very patient with them and loves to play with them! However because of his boisterous nature he could unintentionally knock-over a small child. He\'s lively and active around the home, constantly on the move. If he isn\'t getting enough exercise or becomes bored he\'ll find mischievous ways to occupy himself: usually chewing anything in sight. He\'s wary and standoffish with strangers until he warms up to them. He\'s an instinctive guard dog, protective of his family and will not back down if threatened. He drools and slobbers quite a lot, especially after drinking. And he sometimes has flatulence which can be quite smelly. He is not a dog who can live outside.</item>
+        <item>The Brittany is an award-winning, widely-admired hunting dog, and has recently become popular as a family pet, due to their happy, friendly, affectionate disposition and their intelligence and versatility. They are people-oriented and attention-loving. They will need to spend a lot of time with you. They do not do well if left alone for long periods of time. They love to be loved, but they also love to work. They need a job to do, as they crave mental stimulation. Boredom, loneliness, or pent up energy will lead them to destructive behavior. So they also need lots of exercise. They love to run and will need to do so daily. A busy Brittany is a happy Brittany, and they do well with children, and most Brittanys do well with other dogs. (Some Brittanys show aggression towards other dogs and cats.) It is said that Brittanys are not a breed for generalizations -- they range from high-strung to mellow, and from docile to stubborn. But usually they are gentle, active, alert, and playful dogs who make great companions in a home with an active lifestyle.</item>
+        <item>The Bulldog, also known as the English Bulldog, is friendly, calm, gentle, and good-natured. He is a couch-potato! He loves to curl up on the couch and sleep all day. He\'s stubborn and unwavering. If he doesn\'t want to do something, you\'ll have a hard time getting him to do it! His clownish behavior will make you laugh. He forms a strong bond with children and is very good with them. He thrives on lots of attention and love from his family. He can be a very destructive chewer so give him plenty of chew toys and hide your slippers. He\'s a homebody; he isn\'t the kind of dog to wander off and prefers to stay in the yard close to home. He drools and slobbers a lot -- especially after eating and drinking (expect mess). He often has wind (flatulence) and it can be quite smelly. He snores loudly and snuffles, snorts and grunts frequently. His flat face and short nose causes him to overheat in hot weather. If he does you will need to take him inside in the air conditioning or allow him to rest in the shade until he cools down.</item>
+        <item>If you are looking for a true best friend, the Bullmastiff might be for you. These large and powerful dogs make excellent companions because they are so loyal and protective. They will want to go with you everywhere, be part of everything you do, and will not do well behaviorally if they do not get the attention they crave. They are good with children and are protective of them. They are quiet dogs, but will bark loudly when they sense a threat. They are not always good with other dogs, and can show dog aggression, so it is important to socialize them early in life. They are natural guard dogs and can be territorial to a fault. While it is great that they will protect you with their life, they can also get into trouble by not allowing any other animals to trespass onto \"their\" property. Bullmastiffs are faithful, sensitive, intelligent, and eager to please. They are laidback (unless threatened), fearless, active, docile, spirited, and famous for the unconditional love they show their humans. They are confident and can sometimes be stubborn. Their famous flaw is their slobber. You need to be prepared to keep a slobber rag in every room in your home, and you might consider offering one to your guests when they walk through your door, as your Bullmastiff will most certainly slobber on them as well -- Bullmastiffs do not discriminate with their slobber. Bullmastiffs are active but do not require excessive exercise, and can live happily anywhere, including apartments, as long as they have lots of company and are given lots of attention.</item>
+        <item>Their nickname \"The Comforter Spaniel\" pretty much says it all. This affectionate, devoted lapdog thrives on human contact and will love being part of your family. They will want to sleep in your bed. They are adaptable and can do well in either a mansion or an apartment, but they do not cope well with being left alone for long periods of time. The Cavalier is gentle, friendly, energetic, playful, and dignified. They are intelligent, yet guileless, and are moderately easy to train. They love children, but because they are so small, some breeders will not let them go to homes with young children. They are not yappy, but will let you know if someone is approaching your door. They are sweet and trusting, and love everyone they meet. They are incredibly sensitive and empathic. Their expressive eyes seem to tell you that they are aware of your mood. If you are feeling down, they are more than happy to cuddle you until you are feeling up again -- one of the reasons they make awesome therapy dogs! They are active and energetic, and require a moderate amount of exercise. They like to go for walks, but they also like to sleep on the couch. Just be sure they are kept on lead or fenced in, as they are not car smart. They are also prone to chase anything that moves. This fun-loving breed believes in \"the more the merrier\" and gets along well with other pets.</item>
+        <item>The Chihuahua has a terrier-like personality which means he\'s cocky, confident, feisty, quick-to-bark, relentless, and rash. He\'s the smallest of all dog breeds. He eats very little and takes up very little space. He\'s craves your affection and close physical contact (pats, rubs and scratches). He loves to cuddle and snuggle up to you on the couch. He\'ll sit on your lap or by your side for hours while you read or watch TV. He burrows under blankets and pillows to sleep, so be careful where you sit! He tends to bond more closely with one person: his main caretaker. He\'s alert and investigates all goings on. He\'s cautious and wary with strangers and can take a long time to warm up to them (he\'ll get to know them on his own terms!). He\'ll bark up a storm when a stranger enters his home. He doesn\'t get along very well with dogs he doesn\'t know, he can be aggressive with them. He isn\'t intimidated by other dogs in the least! He\'ll happily (and unwisely) take on a dog twenty times his size, so you need to watch him. He may nip at a child who is teasing him, but he\'s good with children who are gentle and respectful of him. He will get all the exercise he needs by walking and running around inside, which makes him an excellent apartment dog. He\'s very alert and will sound the alarm if a stranger approaches or enters your home. He shivers when he\'s excited, frightened, or cold. He\'s one of the top 20 most popular dog breeds in the United States.</item>
+        <item>Collies make fantastic family pets because they love to be with people, and love to be part of the family. They are great with children and often take a special interest in them. The Collie\'s herding instinct will often cause him to follow his small owners around all day, quietly protecting them. Every year Collies receive heroism awards for rescuing children from cars, snakes, and fire. Collies are affectionate, intelligent, easygoing, fun-loving, loyal, devoted, and incredibly responsive to their humans. Collies seem to have an intuitive awareness of a family\'s routines and activities and are sometimes accused of\ "reading their owner's mind.\" They are known to recognize approaching footsteps and vehicles, and are often found waiting by the door when it is the regular time for someone to get home from work or school. Because the Collie is so in love with the family, he needs a lot of attention. He will want to go for daily walks and play with everyone, and will not do well if left alone for long periods of time. A Collie will bond quickly and easily with his family and will become watchful and protective of the home. He is not prone to wander, and seems content to hang out in his own yard. Collies can adapt to suburban yards and to large rural spaces, as long as they have someone there to love. Collies can be reserved with strangers, but are always gentle, though you can be sure your Collie\'s bark will let you know when someone is at your door. Collies are very vocal, which can irritate your neighbors, but Collies are also eager to please their owners, so will often be quiet when you tell them to. Collies have a wide range of vocals as well as facial expressions, which makes them excellent communicators (think Lassie). Collies are often accused of smiling. Collies are social animals and get along well with other dogs and other family pets.</item>
+        <item>Dalmatians are large dogs with even larger personalities. They are a very active breed, and some Dalmatians can be hyperactive. They love fun and they love to play play play. If you don\'t like being assaulted with love when you get out of the car, this might not be the breed for you. They require daily exercise, and it will take a lot to tire them out. They enjoy running, hiking, flyball, Frisbee, agility, and rollerblading -- they were bred to be able to run for hours. They also usually love water. They need to be kept on-lead or in a fenced-in yard because if they get away from you, they are fast. And they are not car smart. If they do not get enough exercise, they can become high-strung and destructive. Early obedience training is essential with this breed. Dalmatians can be dominant, and if they are not shown early on who the pack leader is, they will try to take on the role. Dalmatians will certainly take advantage of a master who lets them get away with bad behavior. They are, however, quick to housetrain. A Dalmatian is an intelligent, independent thinker who wants to be the class clown -- any teacher will tell you that\'s a challenging combination! Even a well-trained Dalmatian may occasionally surprise his owner by coming up with some unusual (and usually unpleasant) behavior. These dogs are people-oriented and thrive in a family environment. They will want to follow you from room to room and cuddle with you at night. Dalmatians who are kept away from family activities frequently become barkers, chewers or diggers. Dalmatians were bred to be guard dogs and are protective of their families. They do a good job of alerting the family to strangers. They are territorial and will protect when there is a need. They are typically not biters unless they are provoked. They can be aloof with strangers and early socialization is important with this breed. Puppies who are not socialized can become aggressive or fear aggressive and they might snap or bite when they are afraid of people. Some Dalmatians can be quarrelsome with strange dogs, but most get along well with other pets. They have a strong affinity for horses. Dalmatians have made great family pets for lots of families. They are strong enough to handle children\'s roughhousing, but care needs to be taken with really young children. A large, active Dalmatian can flatten a young child, and a happy Dalmatian tail makes a powerful unknowing weapon. A well-cared for, happy Dalmatian makes for an alert, curious, dignified, and enthusiastic social butterfly. They are sensitive to human moods and to human corrections. Some of them smile -- it looks like a snarl but is coupled with a wagging tail -- they often do it when they are in trouble. They are talkative: they coo and grunt and give a whistling yawn. But they are usually not problem barkers. Dalmatians are very smart, quick to learn, and they love to please the ones they love. They are very affectionate and devoted to the families they adore!</item>
+        <item>The Dachshund is fearless, brave, rash, playful, determined and clever. He\'s quite independent and stubborn because he was bred to hunt alone. He can be quite bossy and will take over the house if you let him. He\'s a \"one-man\" dog and bonds more closely with one individual in the family. He likes to be in on everything you do and he will follow you everywhere (never again will you go to the bathroom alone). He\'s playful and will chase a ball (but he probably won\'t bring it back). He can take a while to warm up to strangers and can be argumentative with other dogs. It\'s in his instinct to dig and burrow so you\'ll find him tunneled under blankets and pillows. He\'s affectionate and likes plenty or cuddles and belly rubs. He has a keen sense of smell and will wander off when he picks up an interesting scent so he should not be trusted off leash or unfenced. He can be a bit of a barker (and his bark is loud for such a small dog!). He has a high prey drive and will ferociously chase any small, fleeting creature (including a child). He\'s good with children who are gentle and respectful, but he may nip at a bratty child who teases him. He loves the company of other Dachshunds.</item>
+        <item>The Doberman Pinscher is often referred to by enthusiasts as\ "The Cadillac of Dogs.\" They\'ve also been called \"the dog with the human brain.\" Originally bred to be a guard dog, the Doberman Pinscher makes a protective family pet. (Sometimes, due to their somewhat erroneous reputation, the mere presence of a Doberman is sufficient deterrent to evildoers.) However, a Doberman Pinscher in a loving, stable environment is also a loving, stable dog, and an obedient and loyal companion. He is not a dog you simply chain outside to protect your property. A Doberman is a people dog and will show you unflinching devotion. He will need to be by your side. They are incredibly intelligent, perceptive, intuitive, and sensitive, all of which makes them highly trainable. However, they require you to be a firm pack leader, or they will assume the role. A Doberman will need to be obedience trained. The Doberman Pinscher is a versatile breed: family dog, agility champion, therapy dog, seeing eye dog, police dog. They are used to being active. They are fearless, outgoing, and up for anything, anytime. They need vigorous exercise every day and they need to be mentally stimulated. Dobermans do best when they have a job to do. (However, they are not fond of rain, so they will nap with you until the sun comes out.) Speaking of napping, the Doberman is a cuddler! Be prepared to be watching TV, minding your own business, and suddenly finding a Doberman in your lap. He will also try to sleep with you. A Doberman will be lovey-dovey with you on the couch, but will be reserved with strangers. They have a natural ability to evaluate a situation and determine whether or not their family is being threatened. The Doberman loves his children and will be protective of them. Dobermans are prone to behavior issues because they are so intelligent and energetic, but a Doberman who is provided with exercise, care, attention, and training should be a perfect gentleman in the home. You just need to have the time and be able to make the commitment. As with many breeds, the Doberman is not for everyone.</item>
+        <item>The English Springer Spaniel is a popular breed because they are fun, eager to please, obedient and affectionate. They love their families, and they are loyal and trustworthy. They are energetic and social, and are good with children. However, they require a lot of your attention. They need to be loved, and will want to stick very closely to their owners. They do not do well if left alone for long periods of time. They also need a lot of exercise. They love to run, and they need to run. A lonely or unexercised English Springer Spaniel will misbehave. These outgoing, versatile dogs excel in canine sports such as agility, obedience, and retrieving. They also love to swim, and much to your dismay, will often attempt to do so in mud puddles. They do best with a fenced in yard, as they are known to chase squirrels. In short, English Springer Spaniels make excellent pets for an active family. They are cheerful, intelligent, social, lively, and entertaining. They will certainly become a part of your family.</item>
+        <item>He\'s been called \"the clown in the cloak of a philosopher,\" and this loveable little companion dog is exceptionally good-natured. He is particularly affectionate toward his master and the children, and can even be a bit possessive. They are excellent with children! He will need to be a part of the family and will want to be in close contact with you. Each \"frenchie\" possesses his own unique personality, but they are usually independent thinkers, intelligent, with a bit of a mischievous side. They are usually well-behaved if trained to be. They are trainable, but stubborn, and do best when they are convinced that they are interested in the task at hand. Their favorite task, of course, is that of lap-warmer, and that requires little to no training. You will need to be willing to share your favorite chair. They are compatible with other pets, but sometimes struggle with cats. They are active, alert, and playful, but they don\'t require a lot of exercise. They will have short bursts of high energy, but these are interspersed with long periods of napping and lounging around. Because of their short nose, you have to be careful that you don\'t exercise them to the point that they overheat. They also don\'t do well in high temperatures and they do best with air-conditioning on hot days. They can be territorial and protective, and will \"sometimes\" alert their owners to danger, but not all the time. Some frenchies never bark at intruders. They are typically a quite breed and are not excessive barkers. These loyal little guys are the ideal housedog, except for the fact that they drool and slobber quite a bit, are frequently gassy (have flatulence), and snore loudly.</item>
+        <item>The German Shepherd Dog is loyal, bold and courageous. He\'s self confident and utterly fearless. He won\'t back down if challenged! He\'s highly intelligent and learns commands very quickly. Because of his high trainability and courage he\'s the world\'s number one police and military dog! He\'s protective of his home and family. You need to make sure he knows that you\'re the boss or he will appoint himself boss and can become overly protective and territorial. You need to lay down the rules from day one, and he needs to follow them! He\'s one of the most popular dog breeds in the United States. He\'s aloof with strangers and does not make friends indiscriminately. He\'s very fond of the children he\'s raised with. He\'s incredibly strong and athletic. He\'s a highly active dog who needs exercise and mental stimulation almost every day or he will get bored, and if he does he can become destructive with your property. If you\'re looking for a couch-potato this isn\'t the dog for you! He\'s known as a\ "one man\" dog because he bonds more closely with one family member who he respects and trusts. He makes an excellent guard dog.</item>
+        <item>The German Shorthaired Pointer is primarily a hunting dog, is bred for that purpose, and so will have a high level of energy that needs to be channeled in a healthy way. He can be happy and thrive in a non-hunting household, but he will need lots of exercise and mental stimulation. The breed is athletic and energetic (really, really energetic!) and does very well as a member of an active (very, very active) family. If he\'s not provided with an outlet for his energy, he will find a way to entertain himself, and that could get expensive. He needs consistent exercise, and he needs to run, not walk (though walking is a fine extra hobby). He is also intelligent and will want a job to do. In addition to hunting, German Shorthairs are also excellent at agility, obedience, flyball and tracking. They will enjoy anything that involves running, jumping, and/or swimming. And even an exhausted German Shorthair will still be prone to bursts of energy, and you will need to be okay with a fifty pound dog tearing around your house. The German Shorthair is a vigilant watchdog, and is protective without being aggressive. They love to play with children, but can be a bit exuberant for young ones. However, they are very tolerant of toddlers. They are good with other pets, but they sometimes chase cats. This breed is people-oriented, and will want and need to be by your side as much as possible. He will want to sleep near you, probably in your lap. He will not do well if he feels lonely or isolated. Because of their desire to please their owners and their innate intelligence, this breed is highly trainable. They are sensitive and responsive. In short, (excuse the pun), they are an exuberant, affectionate, loyal companion who will work to do whatever you need of him, and he will do it enthusiastically and tirelessly.</item>
+        <item>The Golden Retriever is a happy-go-lucky clown. He\'s reliable, trustworthy, calm, friendly, gentle and confident. He\'s very eager to please you. He isn\'t a one-man dog because he loves everybody. He\'s friendly with all dogs and strangers. He\'s highly intelligent and trainable. He\'s very active and energetic. He loves to romp, run and play outdoors and he loves to swim. He\'s gentle and patient with kids, even bratty ones! He loves to play games and have fun. He\'s athletic, agile and fast on his feet.The Golden Retriever is the most intelligent and easiest to train of all dog breeds! He learns new commands quicker than any other breed, which makes him very easy to train.</item>
+        <item>Known as the \"gentle giant\" and the \"king of dogs,\" the Great Dane was originally bred as a hunting dog but is now bred as an exceptionally large companion dog. And he makes a good one. He is a gentle, friendly, docile, peaceful, and a really, really big dog. He is exceptionally devoted to his owners, especially children. However, a six-month-old Great Dane puppy will outweigh a six-year-old child, so parents must be cautious that no one gets accidentally squashed. But the Great Dane is people-oriented and committed to pleasing them. They are playful, and will need to be walked daily, but their exercise needs are only moderate. They also love to nap with you, and will take over your couch. They might also go steal some food off the countertop before you wake up. They make good watchdogs, and are often reserved towards strangers, but in general, they don\'t bark much. They get along well with other animals. They are trainable and do well in the competition ring. They are also quick to housetrain. (I know, thank God, right?) So, if you are looking for a dog that honestly believes he is a part of the family ... if you are looking for a gentle giant to have in your home ... who will be able to sit and look you in the eye at the dinner table ... if you are looking for a peaceful, devoted companion who loves his family and home, then the Great Dane might be for you.</item>
+        <item>The Havanese has earned his place on the list of favorite family pets for a wealth of reasons. They are incredibly friendly and thrive on human companionship and affection. They love to be part of the family and love children. Famous for their animated face and endearing head tip, they make great listeners. They are intelligent, easy to train, and eager to please. They love to perform tricks. They are incredibly playful, and if you don\'t have a game ready, they will invent one, which often includes tearing around the house in circles as fast as they can. They love to roughhouse. They also love paper. They will help you use up your toilet paper at a rapid clip. Speaking of toilet paper, they will follow you into the bathroom, and anywhere else you go. They are energetic little guys but don\'t need a great deal of exercise and will get most of it just tearing around the house. They are usually not problem barkers, but will alert you when someone is at the door. They are rarely shy or nervous around new people and seem to get along with everyone, including other pets. While they will be hopelessly in love with you, they are also willing to share you with other pets and people. They also like to pretend that they are cats and sleep on the back of the sofa. They\'ve also been known to nap on the top of the kitchen table. The sweet, easygoing Havanese is clever, active, cuddly, gentle and fun and makes an ideal family pet.</item>
+        <item>The Labrador Retriever is the most popular dog breed in the United States (and Canada and Australia). He\'s owned by millions of people! Labs are loving, people-oriented dogs. They are very loyal and loving to their families. Labs are friendly, happy-go-lucky dogs prized for their stable and reliable temperaments. Labs are good-natured and trustworthy. They\'re dependable and easy-going. Labs are very stable, they aren\'t easily upset or startled. They\'re eager to please you; always seeking your approval. Labs are very affectionate with their families and desire plenty of close physical contact: tummy rubs and behind the ears scratches. They thrive on human companionship and attention. They always want to be with you and will follow you around everywhere you go! They\'ll lie on your feet, sit on your lap, and lean against you! If you don\'t like being followed around and having a dog in your face all the time, then a Lab probably isn\'t for you -- because he just wants to be with you! He will greet you enthusiastically at the door with a wagging tail and kisses every time you arrive home. Labs are highly intelligent, highly trainable, and learn your commands very quickly. They also love to chew things! They\'ll mouth and chew anything they can get their mouths around. They also love to carry things around in their mouths. Labs are friendly with everyone! They get along well with other dogs and strangers. Labs aren\'t \"one-man\" dogs because they enjoy the company of everybody! Labs are gentle and patient with children, even if the child\'s behavior is bratty. They love to run and play with children but care should be taken as they may accidently knock over a small child while playing with them out of over enthusiasm. Labs physically grow very quickly, but continue acting like puppies until they\'re about four years old. So you\'ll need to give him plenty of obedience training if you want to keep him under control. He loves to play with and chew on his toys. He\'ll play with you at any opportunity he gets! His favorite game to play is fetch. He\'ll fetch a tennis balls for hours, and he\'ll fetch the morning paper for you too. He loves to swim and will fetch things out of water. If he spots a puddle or water or mud he\'ll probably jump in it and then lay in it. He doesn\'t mind getting dirty and he\'ll bring mess back inside the home, so if you\'re a clean-freak he might not be the best dog for you. He also doesn\'t mind getting his face wet when he has a drink from his water bowl so expect a wet floor and wet kisses after he\'s had a drink! If wiping up water with a towel doesn\'t amuse you then a Labrador isn\'t for you. He\'ll probably retrieve things like a dead fish or a dead squirrel and bring them to you (it\'s his instinct). Because he likes to take things into his mouth he\'s also prone to swallowing things that he shouldn\'t, like socks, toys, or bones which can cause intestinal blockage. His tail can swipe the items off a coffee table in one clean sweep. He is not a guard dog and is more likely to lick an intruder to death than to be aggressive with him. However, he will provide you with a warning when someone approaches by barking at them. He\'s athletic and strong and has plenty of energy. He makes a great hiking and jogging companion. If he gets lonely or bored or doesn\'t get enough exercise he might misbehave by digging holes, barking, or destructively chewing things. So each day be sure to spend time with him, play with him and give him some exercise (thirty minutes a day playing fetch and allowing him to romp around outside will allow him to release his pent up energy). A Lab can live quite happily in an apartment without a yard so long as he gets to go for a walk and a run outside every day. If you have a yard it needs to be fenced or he will wander away. Besides being a excellent family pet he also excels at therapy work, as a guide dog, in the agility ring, at obedience competitions, in hunting, as a search and rescue dog.</item>
+        <item>The Maltese is a best friend and an accessory, all in one. They will surely attract attention from everyone you meet. The Maltese is an ideal companion, as they are so gentle and affectionate. They are sensitive and responsive and love to cuddle. They will want to be by your side at all times, and will demand to go with you wherever you go. They love to go for walks and rides. These funny little dogs are lively, playful, and entertaining. They have no idea how small they are, and they are fearless. That\'s why they need you to protect them. They will sound an alarm when someone is at your door, but as soon as you invite that someone in, the act is over. Maltese love children, but because they are so small, they are easily injured by a well-meaning toddler who thinks he\'s just discovered the world\'s best stuffed animal. For this reason, many breeders will not let a Maltese go into a home with children under the age of 7. They get along well with other dogs and pets. Maltese are devoted companions with a contagious zest for life.</item>
+        <item>These massive, gentle giants love people, especially their families. They are incredibly devoted, affectionate, and protective pets. They will want to be by your side at all times, often napping on your feet or with their enormous head in your lap. They do not do well if left alone for hours at a time. Loneliness will cause anxiety and destructive behavior. A Mastiff requires a lot of affection. They love nothing more than to cuddle and be hugged, and are even known to \"ask\" for hugs frequently. They are calm, good-natured, and docile dogs who like to take naps. A rare combination of gentle and powerful, the Mastiff was bred to be a guard dog. They do not bark much, unless there is a reason, and they are an intimidating presence at your front door. They require about as much exercise as the average person, and are not into playing fetch. If you throw a ball, your Mastiff is liable to decide to take a nap on the way to get it. The Mastiff is a smart breed, sensitive and eager to please you. He will definitely be part of the family and will want to spend as much time as possible with you. They are great with children. In fact, they are so patient that parents must be vigilant about protecting the Mastiff. Mastiffs have been known to let children abuse them without flinching. On the flipside, parents must also watch out that the Mastiff doesn\'t accidentally knock over a small child with a happy wag. As for flaws: Mastiffs are very loud snorers and many of them tend to fart a lot too. They also like to dig. However, they do not like to wander, and prefer to stay close to home. They are friendly and aloof with other dogs. As for other animals in the households -- some Mastiffs do well with them and some don\'t.</item>
+        <item>The Miniature Pinscher has been nicknamed /"The King of the Toys./" Miniature Pinschers (or Min Pins) are very small dogs, but they do not know this. They are brave and fearless, and are escape artists. Never let one off the leash, as they will chase anything that runs. They have been known to escape through tiny holes in fences, and out open windows! They are curious, sometimes to a fault! They will sometimes eat small objects that interest them: paperclips, coins, lipstick, and obviously, this is dangerous. But they are fun-loving, funny, entertaining, and always full of vim and vigor. They are affectionate, loyal and loving. They love to cuddle and will probably want to sleep under the covers with you. They make a great little watchdog, as they will bark and alert you should anyone come to your door. They are protective, sometimes even possessive, of their home and family. Min Pins have very high energy levels and will need to go for daily walks. Min Pins do well with gentle, respectful children, but will be scared of kids who play with them roughly. A Min Pin can easily be injured by a young child.</item>
+        <item>The Miniature Poodle is good-natured and eager-to-please. He\'s also cheerful, loyal, proud, dignified, and extremely smart. When most people think of a \"Poodle\" they think of a feminine, girly dog. But nothing could be further from than the truth. He\'s actually very rugged and athletic. He\'s incredibly intelligent -- one of the most intelligent breeds -- and is easily trained. He thinks of himself as a person and demands to be treated like one. He\'s very affectionate and craves your love and companionship. He wants to be with you always. He\'s highly playful and loves to clown around. He possesses a keen sense of humor! He\'s highly energetic and very active around the home. He\'s playful and can learn to play fetch! He\'s a strong swimmer and loves the water. He\'s highly social and loves all people. He\'s gentle and patient with children. He gets along well with other dogs and pets. If he\'s bored he will get into mischief, so you need to give him something to do to occupy his mind. He housetrains easily. He\'s one of the most popular breeds.</item>
+        <item>The Miniature Schnauzer has the typical terrier temperament: relentless, energetic, brave, alert, curious, scrappy, bossy, and feisty. He\'s also friendly and willing to please you. Even though he\'s small in size he\'s very sturdy and tough. He\'s quick to argue with other dogs and won\'t back down from a confrontation (even if the other dog is much bigger and meaner than him!). He\'s highly intelligent and quick to learn, one of the easiest breeds to train. He loves it when you play with him. His chasing instinct is very strong so he will chase any small creature that catches his eye. He won\'t put up with abuse from disrespectful children and might snap at them if they tease him. But he\'s good with respectful children. He gives lots of love to his family and is very affectionate. He wants to participate in all family activities! He will follow you wherever you go and do whatever you do. He loves to sleep with you on your bed. He likes to dig in the yard. He\'s highly alert and quick to bark at anything out of place, so he makes an excellent watch dog. He\'s one of the top 20 most popular breeds in the United States.</item>
+        <item>The Pembroke Welsh Corgi is an intelligent herding breed, yet \"Pems,\" as they are sometimes called, make excellent companions and family dogs as well. They are people-oriented and like to be part of family life. Playful, gentle and friendly, they are great with well-mannered young children, though they might try to herd them by nipping at their heels. The Pembroke Welsh Corgi is so intelligent, and is such a quick learner, that he really needs a job to do. This is why they truly thrive on farms. However, if given the proper amount of exercise (and they need a lot), they can live anywhere. They are a truly versatile breed. While many of them are currently working on farms, there are just as many Pems serving as therapy dogs, and performing in the agility ring. A Pembroke Welsh Corgi is usually very protective, and very vocal, so they make great watchdogs. But be prepared: sometimes they like to bark just to amuse themselves. They love to go for walks, and are naturally curious. They are always eager to explore new sights and smells. They are sensitive and in tune with their humans, very sensitive to their moods, and have been known to try to\ "cheer up\" a sulky owner. In fact, many Pembroke Welsh Corgi owners claim their dog has a great sense of humor. A Pem likes to pretend he is a lapdog. They are agreeable in a household: playful, sensitive, and rarely destructive. They housetrain easily.</item>
+        <item>The Pomeranian is a cocky, extraverted, devoted and affectionate little guy. They are intelligent, easy to train, and they love to please their owners. They like to keep their bright little brains busy and thrive on learning new tricks and commands. For this reason, they excel at obedience competition. They will seem to understand your every word. Add this trainability to their cuddle-ability and you will see why this is a popular choice for therapy dogs. They are excellent at comforting the elderly or ill. They just love to snuggle up and nap in a person\'s lap. They don\'t require much exercise, but will require lots of your attention. They will want to be included in whatever you are doing, and have been known to be a bit nosey. They make a natural watchdog and will bark a warning when anyone approaches your home. They are distrustful of strangers. However, they are also known to bark recreationally. They will do well with other dogs, but be aware that the Pom doesn\'t know that he is tiny, and will be fearless with a dog of any size, which can get him into trouble. You will have to supervise your Pom when he is interacting with other dogs. You will also need to supervise young children to ensure they are respectful and gentle with their Poms. Poms can resemble the cutest stuffed animal in the world, and small children can unwittingly trample them. A Pomeranian will make you an excellent, loving companion and will entertain you each and every day.</item>
+        <item>Pugs are small dogs with big personalities. They live to love and to be loved and were bred for one reason: to be your companion. They will try to live in your lap, eat your food, and sleep on your bed. They are incredibly playful, outgoing, adaptable, happy, lively, and affectionate. They need human companionship to survive, and will not do well at all if left alone for long periods of time. Your Pug will want and need to be part of your family. A Pug will spend his life by your side, every moment of it. They are excellent with children and are usually good with other animals in the household. Pugs are low-activity dogs. They enjoy the daily walk, but don\'t need hours of exercise each day. They don\'t like water (most cannot swim) and they don\'t like Frisbees or balls. They like to lie in your lap instead. You will need to be careful that your Pug doesn\'t exercise to the point of overheating. You will have to be especially vigilant on hot and humid days. Pugs, due to their flat faces, simply cannot tolerate extreme temperatures and can die in a short period of time. They should never be left outside unattended. They love to eat (and eat and eat!), and so are prone to obesity. So you need to watch how much you feed them and get them doing some exercise. They are intelligent and trainable, but are often slow to housetrain. They are also not car-smart and will be safest in a fenced-in yard. In short, these affectionate little guys live to please you, and they expect to be the center of attention. They are funny, cocky, sensitive, and cuddly. But you should know that they tend to sneeze, snort, and snore ... and fart ... a lot. Hey, at least they don\'t bark much!</item>
+        <item>The Rottweiler is loyal, self-confident, calm, courageous, independent, wary, and protective. He\'s an instinctive guardian known as the world\'s best guard dog. He\'s tough, strong, and powerful and possesses a lot of endurance. He\'s territorial and protective of his home and family. He does not make indiscriminate friendships with strangers. He\'s cautious, watchful and aloof with strangers until he\'s properly introduced to them. He can be aggressive with others dogs, so you\'ll have to keep an eye on him because the other dog could be injured. He thrives on your companionship and wants to be around you always. He\'s fond of children and protective of them. He\'s extremely intelligent and learns very quickly. He can be quite a clown around his family, which can be entertaining to watch. While he makes an excellent guard dog he isn\'t the best watchdog because he may not bark much. There are many other breeds which make better watchdogs. But he\'s the ultimate guard dog! He\'s one of the top 20 most popular dog breeds in the United States.</item>
+        <item>Saint Bernards are awesome family pets if you don\'t mind having a gigantic dog being part of your family, if you don\'t mind a lot of slobber, if you don\'t mind a lot of fur, and if you don\'t mind a dog who can clean off the dinner table with his tongue. Saint Bernards are famous for how good they are with children. They seem to have an innate understanding for how children think and behave, and are incredibly patient with them. They are gentle with little ones, and go out of their way not to hurt them. A Saint Bernard owner will have to protect his Saint Bernard from the children, as they might try to ride him like a horse! A Saint Bernard is intelligent, and incredibly strong, so you need to start obedience training when they are young! They will learn bad habits just as efficiently as they will learn good ones, so you do not want a giant, strong dog running your house! Some can be overly guarded and possessive of their property. They aren\'t that easy to train as they can be independent, and occasionally stubborn. They are quick to housetrain, however. Saint Bernards were bred to be search and rescue dogs, and they need daily exercise and mental stimulation. However, they are not terribly active dogs, so they will need some incentive to exercise. Toys may or may not interest them so that incentive usually ends up being you. (Also be aware that abrupt changes of temperature are really hard on this breed, so be careful taking him from an air-conditioned couch out onto a steaming hot sidewalk!) They will need a fenced-in yard, and invisible fences do not work well with this breed. They make good watchdogs, as they are protective of their family (sometimes they can be overly protective). Their intimidating size can scare off evildoers which may make them a good guard dog. They are good with other dogs and usually ignore cats. So, if you are in the market for a giant best friend, a sweet, patient and gentle new family member, and a tail that loves to smash knick-knacks off the table, the Saint Bernard is probably for you. Just be prepared that they are as big as you are. And he will want to sit on your feet, lie in your lap, and lean against your leg. They are rowdy and exuberant when they are young, and laid back and calm when mature</item>
+        <item>The Shetland Sheepdog, affectionately called the \"Sheltie,\" is one of the most trainable and loving breeds there is. They are incredibly intelligent and in tune to their owners thoughts and moods. They can be almost psychic when it comes to knowing what you are feeling. If you want to play, your Sheltie is ready to play. If you are sad, your Sheltie will show concern with a worried look and a few kisses. If you are not in the mood, your Sheltie will give you your space. They are sensitive and responsive to training, and sometimes respond to commands before they are given. They are one of the top breeds in the obedience ring, but they also excel in agility, herding, and flyball. They need a moderate amount of exercise every day, and they are happiest when they get this exercise outdoors. They are a working dog and they need a job to do. They need something to occupy their minds. If you don\'t give them something, they will think of something on their own, which is usually not a good thing. They are also devoted companions and family dogs and are especially fond of children. They will want to be involved in everything you do and go everywhere you go. They will follow you from room to room, including the restroom. They are also protective, especially of\ "their\" children, and will bark a warning whenever someone nears your door. They are sound sensitive and bark at all strange sounds, even the ones you never hear. Barking can be a problem with Shelties, as they seem to have a lot to say. They are very expressive and talk to you with whines, groans, grunts and a thousand different barks. (They can also smile.) Not only will they bark at you, they may also try to herd you. But it\'s not personal. They will also try to herd children, bicycles, joggers, cars, ducks, and sometimes airplanes. They are usually naturally distrustful of strangers and should be socialized early in life. They are safest in a home with a fenced-in yard. They are peaceful other dogs and animals. A Sheltie needs to be a part of the family. They are an intensely loyal dog and will not do well if left alone. They love their families and crave human interaction. Owning a Sheltie is a 24-7 endeavor. They love attention. They love to learn. They love to please you. They also love to bark and to steal food from your children.</item>
+        <item>The Shih Tzu is a dignified, lively, alert, happy, sweet and playful. He craves your companionship and just wants to be with you. He\'s very affectionate and loves to cuddle and kiss and sit on your lap. He may be sweet, but he knows how to stand up for himself if confronted. He\'s friendly and sociable with strangers. He doesn\'t need much exercise and will get most of it just running around inside. He\'s one of the most popular dogs in the United States.</item>
+        <item>Bred to be a sled dog, the Siberian Husky makes a great all-around dog. They are agreeable, alert, and outgoing. They have amazing endurance, and are always willing to work and want something to do, so they need at least an hour of exercise per day. They also need to be around people or other dogs at all times. They need companionship. A bored or lonely Siberian is a destructive Siberian tearing up couches and cushions. They can easily destroy your house and yard if they decide it\'s a good idea (and they probably will at some point). Siberians also love to dig! If you let them near your flowerbed, you will no longer have any flowers, or a bed. Siberian Huskies love to run and sometimes they love to run away. They cannot be trusted off leash. You will need a fenced-in yard, and you will need to make sure the fence is secure, because if there is any possible way out, the Siberian Husky will find it. They are excellent escape artists! (And they are not car smart and could get hit by one!) Huskies are also famous for escaping through the front door. If you\'ve seen a crazy woman running all over town in her bathrobe, you now know that she was probably chasing her Siberian. They are not avid barkers, nor are they particularly protective, so they might not alert you when someone is at the door. They are not overly suspicious of strangers, and they are so indiscriminately friendly, that if a burglar breaks into your home, your Siberian might try to lick him to death. While they are not famous for the nuisance bark, they have been known to howl. Siberians are good with children, and love to play with them. They get along well with other dogs, and love to play with other Siberians. They do not however, in general, do well with cats. Sadly, Siberians have been known to kill cats, even ones they\'ve lived with for a while. Siberians need to be supervised around any small animals. Siberians are intelligent and can be a bit stubborn. They can be challenging to train. They are bred to pull, so teaching them to heel can be particularly difficult. They are also usually reluctant to return to you on a recall. You will need to earn his respect and establish yourself as the pack leader. Siberian Huskies have a joyful demeanor, loveable facial expressions, and an exuberant love for life. They are friendly, loving, and enjoy attention. And they need a lot of it.</item>
+        <item>The Standard Poodle is good-natured and eager-to-please. He\'s also cheerful, loyal, proud, dignified, and extremely smart. When most people think of a \"Poodle\" they think of a feminine, girly dog. But nothing could be further from than the truth. He\'s actually very rugged and athletic. He\'s incredibly intelligent -- one of the most intelligent breeds -- and is easily trained. He thinks of himself as a person and demands to be treated like one. He\'s very affectionate and craves your love and companionship. He wants to be with you always. He\'s highly playful and loves to clown around. He possesses a keen sense of humor! He\'s highly energetic and very active around the home. He\'s playful and can learn to play fetch! He\'s a strong swimmer and loves the water. He\'s highly social and loves all people. He\'s gentle and patient with children. He gets along well with other dogs and pets. If he\'s bored he will get into mischief, so you need to give him something to do to occupy his mind. He housetrains easily. He\'s one of the most popular breeds.</item>
+        <item>Owning a Weimaraner is a full-time job, but one that, if well-done, pays handsomely. The \"grey ghost\" is one of the most loyal, devoted, and loving breeds in the world, but they will expect the same level of devotion from you. They require lots of attention, and will want to follow you everywhere, including the bathroom. If you sit down or lie down, they will want to be touching you. A well-treated and well-trained Weimaraner becomes deeply attached to his owner. For a hundred years, they have been bred as both a companion dog and a hunting dog, and they have an incredible level of energy. They will only do well with an active owner. They were bred to hunt all day with their master, and whether they hunt with you or not, they will need to run every day. They enjoy nearly any rambunctious activity, including running beside your bike, jogging with you, hiking with you, swimming, retrieving, and agility. They love to learn new skills. As of yet, no one has reported finding something a Weimaraner can\'t do. They just can\'t handle doing nothing. They will need a fenced in yard, so that they don\'t take off after something they view as prey. They are hunters, and will kill small animals if allowed to do so. They generally get along well with other dogs, but can be aggressive with them. They don\'t usually do well with cats, birds, or other small pets. The Weimaraner needs mental stimulation, and the versatile, intelligent Weimaraner can excel at a variety of activities. However, they need diligent training from you. They are smart, but they are also strong-willed, and they need to be reminded that you are in charge. If you keep their brain busy, they are easily trainable and obedient, and will do anything to please you, but only if they feel they are getting the love and attention they are entitled to. Weimaraners can develop atrocious behavioral issues if their owners do not hold up their end of the bargain. An unhappy Weimaraner has been known to destroy a house in a matter of minutes. They will eat anything. They will expect to be a member of your family and they love children. They make good guard dogs and are protective, sometimes even possessive, of their family. They are usually aloof towards strangers. They are excellent barkers, and some of them bark just for the fun of it. Especially if they are lonely. They do not do well if left alone for long periods of time. They are excellent communicators, and are very expressive. They are very sensitive to your moods. They are playful and will invent games to play with you. They are naturally curious and want to be part of everything you do. Even a well-trained Weimaraner can be a bit mischievous and is known for stealing a pork chop or two off the dining room table.</item>
+        <item>The Yorkshire Terrier is feisty, alert, inquisitive, energetic, determined, brave, bossy, scrappy and boisterous. But he can also be very sweet. He can be described as a little dog with a big personality! He\'s one of the most popular breeds in the Unite States. He craves close physical contact and affection and will follow you around the home like a shadow. His prey-drive is high and he will chase any little creature that scurries by him. He gets along well with strangers but he can be aggressive with other dogs. He\'s very affectionate and loves to cuddle and sit on your lap.</item>
+    </string-array>
+    <string-array name="Cities">
+        <item>Boise</item>
+        <item>Meridian</item>
+    </string-array>
+    <string-array name="OtherCities">
+        <item>Chicago</item>
+        <item>New York</item>
+        <item>Denver</item>
+        <item>Miami</item>
+        <item>Boston</item>
+        <item>Chennai</item>
+    </string-array>
+    <array name="Clinics">
+        <item>@array/Boise</item>
+        <item>@array/Meridian</item>
+    </array>
+
+    <string-array name="Questions">
+        <item>Which size of dog do you prefer?</item>
+        <item>How long do you like to work out everyday?</item>
+        <item>Which season do you prefer?</item>
+        <item>How do your friends describe you?</item>
+        <item>How easily do you bond with new people?</item>
+    </string-array>
+
+    <string-array name="OpA">
+        <item>Small</item>
+        <item>30 minutes</item>
+        <item>Winter</item>
+        <item>Loyal</item>
+        <item>Very easily</item>
+    </string-array>
+
+    <string-array name="OpB">
+        <item>Medium</item>
+        <item>90 minutes</item>
+        <item>Autumn</item>
+        <item>Comforting</item>
+        <item>Takes a little time</item>
+    </string-array>
+
+    <string-array name="OpC">
+        <item>Large</item>
+        <item>150 minutes or more</item>
+        <item>Spring</item>
+        <item>Funny</item>
+        <item>Not that much</item>
+    </string-array>
+    <string-array name="Boise">
+        <item>Animals R Us/(208) 853-3535/43.675470/-116.297069/8901 W State St,Boise, ID 83714</item>
+        <item>Hendricks Veterinary Hospital/(208) 505-4003/43.662308/-116.266170/6224 W State St,Boise, ID 83703</item>
+        <item>Mountain View Animal Hospital/((208) 375-0251/43.636224/-116.274410/3435 N Cole Rd,Boise, ID 83704</item>
+        <item>Critter Clinic/(208) 323-1210/43.634485/-116.313206/10534 W Ustick Rd,Boise, ID 83704</item>
+        <item>Pets First Animal Clinic/(208) 375-2512/43.619875/-116.303372/9730 W Fairview Ave,Boise, ID 83704</item>
+        <item>Orchard Animal Clinic/(208) 376-4433/43.605707/-116.243291/110 N Orchard St,Boise, ID 83706</item>
+        <item>Boise Cat Clinic/(208) 258-2010/43.609684/-116.227841/506 N Latah St,Boise, ID 83706</item>
+        <item>Animal Medical Center/(208) 377-0702/43.591286/-116.314702/1365 S Five Mile Rd,Boise, ID 83709</item>
+        <item>Ada Veterinary Hospital/(208) 344-5900/43.590540/-116.234021/4204 W Overland Rd,Boise, ID 83705</item>
+        <item>Ada Animal Hospital, P.A./(208) 362-5329/43.575867/-116.283803/8250 W Victory Rd,Boise, ID 83709</item>
+        <item>Eastgate Pet Clinic/(208) 336-3278/43.579847/-116.174970/626 E Boise Ave,Boise, ID 83706</item>
+        <item>Habitat Veterinary Hospital/(208) 429-1818/43.574375/-116.156087/3082 Bown Rd,Boise, ID 83706</item>
+    </string-array>
+    <string-array name="Meridian">
+        <item>Linder Pet Medical Care/(208) 855-0400/43.618881/-116.415296/1785 W Cherry Ln,Meridian, ID 83642</item>
+        <item>Pet Care Clinic/(208) 887-2200/43.619627/-116.379247/1151 E Fairview Ave,Meridian, ID 83642</item>
+        <item>All Valley Animal Care Center/(208) 888-0818/43.593027/-116.366200/2326 E Cinema Dr,Meridian, ID 83642</item>
+        <item>Meridian Veterinary Hospital/(208) 888-3444/43.604654/-116.398996/421 W Franklin Rd,Meridian, ID 83642</item>
+        <item>Settlers Park Veterinary Hospital/(208) 855-9500/43.634480/-116.392473/3220 N Meridian Rd,Meridian, ID 83646</item>
+        <item>River City Veterinary Hospital/(208) 888-7300/43.662552/-116.422685/2250 W Everest Ln,Meridian, ID 83646</item>
+        <item>Treasure Valley Veterinary Hospital/(208) 888-4844/43.581032/-116.394532/2600 S Meridian Rd,Meridian, ID 83642</item>
+    </string-array>
+</resources>

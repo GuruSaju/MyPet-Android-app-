@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyDog</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="breed">Breeds</string>
+    <string name="title_activity_breed_list">   Breeds</string>
+    <string name="quizstartbutton">Start</string>
+    <string name="QuizInfo">This is a simple Quiz which asks you a set of questions. Depending on your answers we recommend you
+    a Dog breed with a suitable personality</string>
+    <string name="QuizActButton">Find my Breed</string>
+    <string name="nextButton">Next</string>
+    <string name="BudgetInfoTextView">Enter the starting and ending range to find which breed is within that range(In dollars)</string>
+    <string name="SubmitBudgetButton">Submit</string>
+    <string name="MinTextView">Enter the starting range</string>
+    <string name="MaxTextView">Enter the ending range</string>
+    <string name="budgetButton">Budget</string>
+    <string name="Hospitalbutton">Find Vet Clinics</string>
+    <string name="AlertButton">Alerts</string>
+    <string name="neweventButton">Alerts</string>
+    <string name="CameraButton">Take A Picture</string>
+    <string name="picturesButton">Gallery</string>
+    <string name="cancelbutton">Cancel</string>
+    <string name="savebutton">Save</string>
+    <string name="fileName">Enter name:</string>
+    <string name="budgetresultinfo">The following breeds are available within that cost. These are approximate costs and the costs can vary depending on the breeder and quality of the breed </string>
+    <string name="goTobreedbutton">View Breeds</string>
+    <string name="Breedresult">The Breed for you is:</string>
+    <string name="gridTextView">Your filename.png</string>
+    <string-array name="Seattle">
+        <item>3</item>
+        <item>item three</item>
+    </string-array>
+
+    <string name="title_activity_breed_display">      Breeds</string>
+    <string name="title_activity_quiz">  Find my Breed</string>
+    <string name="title_activity_quiz_questions">QuizQuestionsActivity</string>
+    <string name="title_activity_quiz_result">     Result</string>
+    <string name="title_activity_budget_main">    Budget</string>
+    <string name="title_activity_budget_result">BudgetResultActivity</string>
+    <string name="title_activity_clinic_city_list_view">    Cities</string>
+    <string name="title_activity_clinics_display">     Clinics</string>
+    <string name="title_activity_clinic_maps">Map</string>
+    <string name="title_activity_calendar_main">CalendarMainActivity</string>
+    <string name="title_activity_picture_save">PictureSaveActivity</string>
+
+</resources>
